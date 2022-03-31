@@ -40,3 +40,4 @@
 <a href="https://instagram.com/soeardi_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="soeardi_26" height="30" width="40" /></a>
 <a href="mailto:suardi260696@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="suardi260696@gmail.com" height="30" width="40" /></a>
 </p>
+
