@@ -12,13 +12,13 @@
   
   <samp>saat program di compile tidak pada saat program berjalan (running).</samp>
   
-- <samp>Compiler akan mengubah generic parameter type menjadi tipe data Object di java, dimana tipe data Object dapat di diisi seluruh class</samp>
+- <samp>Compiler akan mengubah generic parameter type menjadi tipe data Object di java, dimana tipe data Object </samp>
   
-  <samp>pada java karena tipe data Object adalah superclass dari seluruh class di java.</samp>
+  <samp>dapat di diisi seluruh class pada java karena tipe data Object adalah superclass dari seluruh class di java.</samp>
   
-- <samp>Dengan kata lain Generic parameter type (informasi generic) yang kita buat akan hilang ketika kode program telah di compile menjadi </samp>
+- <samp>Dengan kata lain Generic parameter type (informasi generic) yang kita buat akan hilang ketika kode  </samp>
   
-  <samp>binary file.</samp>
+  <samp>program telah di compile menjadi binary file.</samp>
 
 - <samp>Dengan adanya generic parameter type kita tidak perlu lagi melakukan konversi tipe data secara manual.</samp>
 
