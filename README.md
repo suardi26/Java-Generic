@@ -2,13 +2,17 @@
 
 - <samp>Generic adalah penambahan parameter type saat membuat class atau method.</samp>
  
-- <samp>Berbeda dengan tipe data yang  digunakan pada sebuah atribut class atau method, Generic parameter type memungkinkan kita bisa</samp>
+- <samp>Berbeda dengan tipe data yang  digunakan pada sebuah atribut class atau method, Generic parameter type</samp>
  
-  <samp>menggunakan tipe data yang berbeda-beda setiap pembuatan object ataupun pemanggilan method tanpa harus menggunakan overloading method.</samp>
+  <samp>memungkinkan kita bisa menggunakan tipe data yang berbeda-beda setiap pembuatan object ataupun pemanggilan</samp> 
+ 
+  <samp>method tanpa harus menggunakan overloading method.</samp>
   
-- <samp>Jadi pada saat program selesai di compile sebenarnya Generic parameter type data akan hilang digantikan dengan tipe data yang di gunakan</samp> 
+- <samp>Jadi pada saat program selesai di compile sebenarnya Generic parameter type data akan hilang digantikan </samp> 
 
-  <samp>pada saat pemanggilan object ataupun pemanggilan method dengan Generic parameter type, sehingga Pengecekan errornya dapat diketahui pada</samp> 
+  <samp>dengan tipe data yang di gunakan pada saat pemanggilan object ataupun pemanggilan method dengan Generic</samp> 
+ 
+  <samp>parameter type, sehingga Pengecekan errornya dapat diketahui pada</samp> 
   
   <samp>saat program di compile tidak pada saat program berjalan (running).</samp>
   
